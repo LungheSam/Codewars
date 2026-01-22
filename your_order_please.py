@@ -22,3 +22,5 @@ def order(sentence):
     return " ".join(last_list)
 
 print(order("4of Fo1r pe6ople g3ood th5e the2"))
+
+#is_digit and is_number could work
